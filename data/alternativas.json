@@ -1,0 +1,114 @@
+[
+    {
+        "id": "da21aba3-ca0b-49c2-a62e-034d874f8f91",
+        "pergunta_id": "fa0c0efc-413a-42fd-b74c-e529952e0a85",
+        "texto": "Chapolim",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051447"
+    },
+    {
+        "id": "237f4ad2-b15a-419a-9bf6-20d854f2b54b",
+        "pergunta_id": "fa0c0efc-413a-42fd-b74c-e529952e0a85",
+        "texto": "José Bonifácio",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051461"
+    },
+    {
+        "id": "34b6ffcf-5d76-4872-a96a-54fc5023dec7",
+        "pergunta_id": "fa0c0efc-413a-42fd-b74c-e529952e0a85",
+        "texto": "Tiradentes",
+        "correta": true,
+        "data_creation": "2026-05-25T21:02:56.051467"
+    },
+    {
+        "id": "f4a16392-5de5-49d4-bbfe-4201e0274b3f",
+        "pergunta_id": "fa0c0efc-413a-42fd-b74c-e529952e0a85",
+        "texto": "Getulio",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051472"
+    },
+    {
+        "id": "efede0bf-90b0-4408-8360-49f09dd7d801",
+        "pergunta_id": "b977778e-03b3-42e3-a2df-23e28e0dd0e7",
+        "texto": "Rio de Janeiro",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051513"
+    },
+    {
+        "id": "4a6321b5-1d6a-499a-ac7e-b69e98666736",
+        "pergunta_id": "b977778e-03b3-42e3-a2df-23e28e0dd0e7",
+        "texto": "Salvador",
+        "correta": true,
+        "data_creation": "2026-05-25T21:02:56.051516"
+    },
+    {
+        "id": "08e620c0-fbe1-44a3-a6ab-1bf2aa7eb35d",
+        "pergunta_id": "b977778e-03b3-42e3-a2df-23e28e0dd0e7",
+        "texto": "Brasília",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051521"
+    },
+    {
+        "id": "6e7c6774-563e-454d-b61f-b290c1cd13de",
+        "pergunta_id": "b977778e-03b3-42e3-a2df-23e28e0dd0e7",
+        "texto": "Recife",
+        "correta": false,
+        "data_creation": "2026-05-25T21:02:56.051526"
+    },
+    {
+        "id": "24a8308a-53b9-447b-852c-753bcd595361",
+        "pergunta_id": "f2035a10-6b87-436a-95e8-2b7c0c900807",
+        "texto": "Alex",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096162"
+    },
+    {
+        "id": "642798d5-3759-420c-b07d-06044acbbdab",
+        "pergunta_id": "f2035a10-6b87-436a-95e8-2b7c0c900807",
+        "texto": "odair",
+        "correta": true,
+        "data_creation": "2026-05-26T22:07:03.096180"
+    },
+    {
+        "id": "f330e867-a28b-4a6b-91ac-8c79e2721a3a",
+        "pergunta_id": "f2035a10-6b87-436a-95e8-2b7c0c900807",
+        "texto": "kim",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096186"
+    },
+    {
+        "id": "5c61f756-cc93-45b1-9135-bc138dea7400",
+        "pergunta_id": "f2035a10-6b87-436a-95e8-2b7c0c900807",
+        "texto": "cassiano",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096191"
+    },
+    {
+        "id": "a7193555-eaed-4e0a-9ce9-ead50736de35",
+        "pergunta_id": "60dbbcdd-1ca1-4cb2-86d0-b425a59ded5d",
+        "texto": "teste",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096199"
+    },
+    {
+        "id": "bc5956cb-6db3-4bf7-8ea9-c0e5008de123",
+        "pergunta_id": "60dbbcdd-1ca1-4cb2-86d0-b425a59ded5d",
+        "texto": "teste",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096204"
+    },
+    {
+        "id": "d7173bac-01a5-4ee1-b26d-f5790e47acd8",
+        "pergunta_id": "60dbbcdd-1ca1-4cb2-86d0-b425a59ded5d",
+        "texto": "teste",
+        "correta": true,
+        "data_creation": "2026-05-26T22:07:03.096208"
+    },
+    {
+        "id": "3571d27e-5d07-4793-96df-837a658e72e5",
+        "pergunta_id": "60dbbcdd-1ca1-4cb2-86d0-b425a59ded5d",
+        "texto": "teste",
+        "correta": false,
+        "data_creation": "2026-05-26T22:07:03.096212"
+    }
+]

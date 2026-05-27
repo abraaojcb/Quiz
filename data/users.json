@@ -1,0 +1,110 @@
+[
+    {
+        "id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "nome": "pudim",
+        "email": "pudimdedeu@gmail.com",
+        "senha": "scrypt:32768:8:1$1gfLxGiT7Yv0EXIP$47fbb2d8aea5b2b04f59cd2336a6e0674add71c584bcfccd4e74caadb6ad4781eca7bae380c532ad0e1d9bbe60820c4512b4ee7eec69c69d3e8022314d355050",
+        "data_criacao": "2026-05-16T13:45:01.538076",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 10,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "6b191269-e75c-42ee-a3de-b34d774815f3",
+        "nome": "abraao junior",
+        "email": "abraaojcb45@gmail.com",
+        "senha": "scrypt:32768:8:1$kczTVVVUS60QCjbt$baaa2765e7da245215b95ae22f2cdd4b7339a8f24a5e6434a3647b832ada91d02fc668b24b8008cb4f2422fbeccb33339827f05fe5b0e5b242118f4de82f25a9",
+        "data_criacao": "2026-05-23T11:31:40.781321",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": false,
+        "otp_code": "753864"
+    },
+    {
+        "id": "95ee8329-9f04-415c-8277-c1cf01310d58",
+        "nome": "abraao junior candido barcelos",
+        "email": "abraaojcb@gmail.com",
+        "senha": "scrypt:32768:8:1$4xu88LirBk2hsLr6$80327839c9b41212bd2ca87ead7d4fa5a70a7077be425a386c291d97b3cedb8d7a7c4c0842e6aabb022c0874804bb8ba55386be841bc66503479f88de23e0476",
+        "data_criacao": "2026-05-23T11:34:26.283881",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": false,
+        "otp_code": "689050"
+    },
+    {
+        "id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "nome": "abraao",
+        "email": "abraao.barcelos@aluno.impacta.edu.br",
+        "senha": "scrypt:32768:8:1$k6uHOYbsZzVWqjQm$e1f63dc74f9b056170296220f68ae80c6aa9be2be8d4df6d2c7ad7d0b0f2f26ebd1fbee024f508e1bd59ae534318a54e73228198e6e809ebaea2fc719a477e3e",
+        "data_criacao": "2026-05-23T11:52:23.838648",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 240,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "nome": "Joao",
+        "email": "jkudlasilva123@gmail.com",
+        "senha": "scrypt:32768:8:1$K76y7KliQsqIFsFT$873424327fa6b22de309a05540543a32d706a4e714e7d5fabdf72bb5a73be2b232451783382f1d173e2c50fe2078f4a7f0cd72a8e6ce80a28c2a618bcf4d8273",
+        "data_criacao": "2026-05-25T21:44:59.494119",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 120,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "1ee588cb-4ce0-4114-8cb3-91ffc1dd1a9c",
+        "nome": "rafael absy",
+        "email": "rafael.absy@aluno.impacta.edu.br",
+        "senha": "scrypt:32768:8:1$i4oFBG6NKQ5me2vi$45bf9f4eba260cbad2d7235d19e9d2fda55d573231fe93e820644bf3adfbe6b4170e70db3a0f2e9417b6c4810f0c609b58c32ca70da91391e37d99d370e4040c",
+        "data_criacao": "2026-05-26T21:42:47.368211",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": false,
+        "otp_code": "447950"
+    },
+    {
+        "id": "f113a925-b6fa-451a-ac34-4a2e290db5f1",
+        "nome": "Felipe Oliveira",
+        "email": "felipe.orodrigues@aluno.impacta.edu.br",
+        "senha": "scrypt:32768:8:1$7MV0S5tYjvtMWiQl$7304f6bcb6f5d08dfa216f877b59f20e8c73172041604b0d19b92ed50d065eb09fcb71d1c188d855ac419fe7ae9e0cede2b3c9ac01cdcfd725947001b120aedf",
+        "data_criacao": "2026-05-26T21:45:23.825319",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "92e7555f-cfc7-4124-abee-777d166bd18a",
+        "nome": "rafael",
+        "email": "rafaeloliveiraabsy@gmail.com",
+        "senha": "scrypt:32768:8:1$dx8NSincHaOgke8s$2e3a019ef98b73510ae59fe38df8aa44fdea271c0f6651799fc4895a69a594a0f95c9a9d00edc7a82080d71862a59a97c439cc5e1af7c7a2922643c67d4d371d",
+        "data_criacao": "2026-05-26T21:49:54.387655",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 0,
+        "is_verified": true,
+        "otp_code": null
+    },
+    {
+        "id": "c3a9f520-25be-4e27-800c-3c4305775263",
+        "nome": "Alex",
+        "email": "alex.carneiro@impacta.edu.br",
+        "senha": "scrypt:32768:8:1$DUx28zVfNsY182EE$cb792090888b2bbcb7222814fc9875be65ed49f0c77dc358223879b13dc196c9866f396d4455053b043b08a55391f1f4219b2552eee3d1b52b1dd0baae7648cc",
+        "data_criacao": "2026-05-26T22:05:19.755452",
+        "avatar_url": "",
+        "nivel": 1,
+        "xp_total": 60,
+        "is_verified": true,
+        "otp_code": null
+    }
+]

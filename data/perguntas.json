@@ -1,0 +1,34 @@
+[
+    {
+        "id": "fa0c0efc-413a-42fd-b74c-e529952e0a85",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "enunciado": "Quem foi o líder da Inconfidência Mineira?",
+        "tipo": "multipla_escolha",
+        "dificuldade": "easy",
+        "data_creation": "2026-05-25T21:02:56.051272"
+    },
+    {
+        "id": "b977778e-03b3-42e3-a2df-23e28e0dd0e7",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "enunciado": "Qual cidade foi a primeira capital do Brasil?",
+        "tipo": "multipla_escolha",
+        "dificuldade": "easy",
+        "data_creation": "2026-05-25T21:02:56.051507"
+    },
+    {
+        "id": "f2035a10-6b87-436a-95e8-2b7c0c900807",
+        "quiz_id": "7ab0e70a-12e0-4c84-9aaf-d5c23e68914c",
+        "enunciado": "Professores da faculdade",
+        "tipo": "multipla_escolha",
+        "dificuldade": "easy",
+        "data_creation": "2026-05-26T22:07:03.096061"
+    },
+    {
+        "id": "60dbbcdd-1ca1-4cb2-86d0-b425a59ded5d",
+        "quiz_id": "7ab0e70a-12e0-4c84-9aaf-d5c23e68914c",
+        "enunciado": "teste",
+        "tipo": "multipla_escolha",
+        "dificuldade": "easy",
+        "data_creation": "2026-05-26T22:07:03.096193"
+    }
+]

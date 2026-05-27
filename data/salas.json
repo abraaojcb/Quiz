@@ -1,0 +1,64 @@
+[
+    {
+        "id": "7f0c10c7-6fe1-4e8a-be33-9e95970d940b",
+        "nome": "rafael",
+        "codigo": "59ABS",
+        "dono_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "status": "jogando",
+        "participantes": [
+            "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2"
+        ]
+    },
+    {
+        "id": "3550561b-8def-40c9-a92d-55741619da9b",
+        "nome": "rafael",
+        "codigo": "MZAV5",
+        "dono_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "status": "finalizada",
+        "participantes": [
+            "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+            "43d446fe-d223-4928-9ac2-641d9205fbb8"
+        ]
+    },
+    {
+        "id": "a1297f02-6deb-4480-81f1-3cb93b5db8bc",
+        "nome": "Sala rafa",
+        "codigo": "A3UTK",
+        "dono_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "status": "jogando",
+        "participantes": [
+            "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2"
+        ]
+    },
+    {
+        "id": "23b4d51e-425d-4259-9a7e-0df4ba8a7214",
+        "nome": "Sala rafa",
+        "codigo": "6X17Y",
+        "dono_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "status": "finalizada",
+        "participantes": [
+            "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+            "43d446fe-d223-4928-9ac2-641d9205fbb8"
+        ]
+    },
+    {
+        "id": "01145bc1-4ffb-4c43-a7bb-a2e033423b56",
+        "codigo": "JZYEW",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "host_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "status": "aguardando",
+        "players": []
+    },
+    {
+        "id": "c1616f80-8615-40ac-a3f4-759221c26413",
+        "codigo": "FAPA3",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "host_id": "c3a9f520-25be-4e27-800c-3c4305775263",
+        "status": "aguardando",
+        "players": []
+    }
+]

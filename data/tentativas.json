@@ -1,0 +1,496 @@
+[
+    {
+        "id": "eb6a5039-66e0-4620-96eb-d1c9848a75bb",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 30,
+        "status": "finalizado",
+        "data_inicio": "2026-05-11T19:42:01.625558",
+        "data_fim": "2026-05-11T19:49:54.048429"
+    },
+    {
+        "id": "26a4dec7-2e7e-4bc2-8a12-0ae0c406dd3a",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:35:22.533188",
+        "data_fim": "2026-05-16T13:40:51.667791"
+    },
+    {
+        "id": "ce6d1431-f658-435f-96ae-bf4766036b26",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:56:02.457671",
+        "data_fim": "2026-05-16T13:59:41.071801"
+    },
+    {
+        "id": "6e67af84-026a-4fbf-aef6-5ad8f998738d",
+        "usuario_id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T13:57:22.826436",
+        "data_fim": "2026-05-16T13:59:18.865483"
+    },
+    {
+        "id": "9f263fd6-6e96-4e28-9622-e887f5819200",
+        "usuario_id": "b6b594d0-3c98-4f8c-b50e-5b3002fc63f2",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T14:07:18.864211",
+        "data_fim": "2026-05-16T14:08:15.058580"
+    },
+    {
+        "id": "ab2815e8-a8b2-4721-b39e-15db4d3220ca",
+        "usuario_id": "43d446fe-d223-4928-9ac2-641d9205fbb8",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-16T14:08:29.601259",
+        "data_fim": "2026-05-16T14:09:56.956721"
+    },
+    {
+        "id": "6ccab8e8-740e-4381-a1a3-4fa2805441ae",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-23T12:08:34.064449"
+    },
+    {
+        "id": "cbc52052-4773-4b7a-8f31-59047f6eb2db",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-23T12:13:09.156399"
+    },
+    {
+        "id": "69329ada-66ee-45ae-95dd-1a9fcd88e090",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-23T12:15:21.177011"
+    },
+    {
+        "id": "910d099a-5be4-416c-9d9a-da8d227cd9ad",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T13:42:45.841860"
+    },
+    {
+        "id": "c7c2ef4a-86e2-45df-ace1-d44e9ff1da1a",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T13:54:27.809283"
+    },
+    {
+        "id": "9850fcf6-8d21-4964-9008-bb5b429dd353",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T13:58:09.035497"
+    },
+    {
+        "id": "5268451f-3036-4de5-bdfe-01ccba8de00d",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T13:59:54.712406"
+    },
+    {
+        "id": "320a02ea-8364-4718-80a3-1bacc87902ab",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:02:32.217927"
+    },
+    {
+        "id": "c0e6bdc9-0ec0-4de9-9b46-0e154a0a9e02",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:13:09.036397"
+    },
+    {
+        "id": "c56f05e7-2f6b-4cda-85d5-0d3e0a17c287",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:23:53.716748"
+    },
+    {
+        "id": "f941bbf1-cf40-445e-b840-72f9b9506283",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:25:28.831992"
+    },
+    {
+        "id": "0fed3105-2a2c-4cac-921c-ea48454c2e67",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:27:00.571016"
+    },
+    {
+        "id": "10b5d11a-e18f-4858-b5b1-2fb39767e4a0",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T14:29:54.199857"
+    },
+    {
+        "id": "85d7cc9a-1c28-4824-b9d8-22b83a7c23f0",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T16:23:42.445425"
+    },
+    {
+        "id": "5298c4eb-6ae8-41aa-a6ac-ea12a92a23b2",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T16:30:09.257098"
+    },
+    {
+        "id": "3e3af9d1-71bc-49a5-bc14-e04cee70d818",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T16:31:32.831922"
+    },
+    {
+        "id": "d9206146-152c-4f57-9901-8cfe344c259a",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-24T16:38:49.864071"
+    },
+    {
+        "id": "97a49e0a-716e-4b9d-8a18-696dc03701b0",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:04:40.674763"
+    },
+    {
+        "id": "77a87d56-8e0f-4c28-9c9a-ff66a4d623d7",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:04:48.421384"
+    },
+    {
+        "id": "9e0a8c3f-2815-493b-8076-cd0ad1bf442a",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:12:07.820757"
+    },
+    {
+        "id": "8fbb1bb2-9d1d-4eee-b523-743f2d49bc12",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:14:02.677070"
+    },
+    {
+        "id": "589bed4e-f93e-424a-93d7-9b30fdcbf269",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:14:09.957183"
+    },
+    {
+        "id": "2c16d03d-77cc-48c1-a2da-197ad3dfed36",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "f393b0b6-3e21-4e4b-994f-79de2b9f6ba3",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:15:08.959944"
+    },
+    {
+        "id": "fa0dfcdc-0124-44fb-bca6-ad30ea4f6330",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "9ec2017d-e8c4-4463-808f-7d2ffe8634d2",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:21:33.577747"
+    },
+    {
+        "id": "729d922b-327d-4c65-a603-07bf5d303e34",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "f393b0b6-3e21-4e4b-994f-79de2b9f6ba3",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:45:28.497824"
+    },
+    {
+        "id": "609c6e78-f8d4-413f-a614-3b1669f88631",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "c0a7823b-c0c9-4588-99a2-5238eb8b3964",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T20:49:19.462018"
+    },
+    {
+        "id": "1329e98f-c8f2-4390-b86f-c638ba50daae",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T21:08:07.160320"
+    },
+    {
+        "id": "9a1a4114-c66f-4b64-b75f-76b6ddfeff90",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "db0359c5-6179-4f60-afaf-e40ff02c81e8",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-25T21:45:58.583903"
+    },
+    {
+        "id": "d737d637-1fe8-4d5a-859e-ad9799d60d88",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "db0359c5-6179-4f60-afaf-e40ff02c81e8",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T21:45:58.600868"
+    },
+    {
+        "id": "3178df76-b1cc-46e5-9178-1248d248d75c",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "a634e7e4-0a0d-416c-9140-59be6e9b74af",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-25T21:49:22.362715"
+    },
+    {
+        "id": "dff46104-359b-4d8e-8e97-e5d09b4cc5cb",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "a634e7e4-0a0d-416c-9140-59be6e9b74af",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T21:49:22.381472"
+    },
+    {
+        "id": "af07905e-a6d3-4d5d-bfef-6f258b0c00ea",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "a634e7e4-0a0d-416c-9140-59be6e9b74af",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-25T21:49:51.664144"
+    },
+    {
+        "id": "a9021e40-2346-4df8-882f-c5dd5fbc61b6",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "a634e7e4-0a0d-416c-9140-59be6e9b74af",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T21:49:51.699102"
+    },
+    {
+        "id": "ccd86744-bf6c-4cfb-bf6a-81019ffda2c5",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "5c047c25-adf8-41db-99a6-693ae3785923",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-25T23:03:34.687126"
+    },
+    {
+        "id": "00b83f1b-cd18-4ad7-862f-c5532671b741",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "5c047c25-adf8-41db-99a6-693ae3785923",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-25T23:03:34.702486"
+    },
+    {
+        "id": "11d55394-badf-42f3-ad19-b4c40691af7d",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "5c047c25-adf8-41db-99a6-693ae3785923",
+        "pontuacao": 0,
+        "status": "em_andamento",
+        "data_inicio": "2026-05-26T08:33:14.802601"
+    },
+    {
+        "id": "169f5085-6344-4d15-a44e-c64c562eeffb",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "5c047c25-adf8-41db-99a6-693ae3785923",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T08:33:14.842945"
+    },
+    {
+        "id": "b0644cd1-42dd-4f56-95db-bcd09e0440d8",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T13:39:12.723886"
+    },
+    {
+        "id": "e52e6379-ea4a-4768-901a-f559a7e29c29",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T13:39:28.886530"
+    },
+    {
+        "id": "787edb6f-b764-4369-b4df-dd4fe0a4c3af",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T16:37:04.651518"
+    },
+    {
+        "id": "b35a8018-1070-4fc3-a617-464cc575f569",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T19:37:23.998413"
+    },
+    {
+        "id": "fec0bc61-59a1-4439-a190-d345a410d3a8",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T19:37:41.456292"
+    },
+    {
+        "id": "4a5ce654-aafd-408d-8a7c-ba884ba4e751",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T19:40:35.499436"
+    },
+    {
+        "id": "6817621d-608b-42cf-8c1e-f2d29d578ebd",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T19:44:32.938418"
+    },
+    {
+        "id": "663c1f45-9f28-4206-90ce-d7b293634712",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T20:05:55.919858"
+    },
+    {
+        "id": "d229492a-ad8a-4ae9-9fc8-0769d4436ebc",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 10,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T20:06:07.331514"
+    },
+    {
+        "id": "16cea162-a2dd-4348-bffe-4b6aa9a7c4c3",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T21:27:45.736987"
+    },
+    {
+        "id": "ec672e37-60f5-49fe-8c02-288e9cc54ae7",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T21:28:00.043510"
+    },
+    {
+        "id": "3174a3e7-1357-4711-82e9-f06eaab990ab",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 0,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T21:28:13.654408"
+    },
+    {
+        "id": "7eeb4cda-c6b5-40ad-b4f1-faf37b31941d",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T21:37:08.744525"
+    },
+    {
+        "id": "d98684f2-54c1-4589-8379-65f500b0d880",
+        "usuario_id": "443178f0-6f31-421a-9b33-8414fefc5b60",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T21:37:18.526436"
+    },
+    {
+        "id": "ca9a8af5-4d79-4a07-a8a4-fa209b5fa9ee",
+        "usuario_id": "c3a9f520-25be-4e27-800c-3c4305775263",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T22:07:38.842021"
+    },
+    {
+        "id": "979cebca-6f61-4bcd-ab64-e1b6543685ed",
+        "usuario_id": "c3a9f520-25be-4e27-800c-3c4305775263",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T22:08:02.522787"
+    },
+    {
+        "id": "185537c0-c01c-443c-a531-4f1da98d3eb1",
+        "usuario_id": "c3a9f520-25be-4e27-800c-3c4305775263",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T22:10:46.246325"
+    },
+    {
+        "id": "dc3524b4-47fd-4338-9bd5-9ead31454bf1",
+        "usuario_id": "a7bc1b57-1250-417a-89de-92a42764c125",
+        "quiz_id": "3b1dede5-8eae-4ec4-919e-60fbe3cb0e28",
+        "pontuacao": 20,
+        "status": "finalizado",
+        "data_inicio": "2026-05-26T22:10:47.332377"
+    }
+]
